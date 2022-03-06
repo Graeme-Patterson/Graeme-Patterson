@@ -1,9 +1,9 @@
 ### Hi there. Thanks for stopping by my GitHub 👋
 
 - 🔭 I’m currently working on my 3D Design abilities
-- 🌱 I’m currently learning about everything Azure - I work at MSFT!
+- 🌱 I’m currently learning about everything Azure!
 - 👯 I’m looking to collaborate on Arduino/Raspberry Pi projects
-- 🥅 My 2021 goals are to become more involved in IoT using Azure
+- 🥅 My 2022 goals are to become more involved in IoT using Azure
 
 
 <!--
